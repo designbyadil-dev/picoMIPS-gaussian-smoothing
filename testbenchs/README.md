@@ -1,4 +1,4 @@
-# sim/
+# testbench/
 
 This directory is for simulation-only files:
 
