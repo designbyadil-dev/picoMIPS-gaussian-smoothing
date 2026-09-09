@@ -1,9 +1,6 @@
 # picoMIPS — 1D Gaussian Smoothing Processor (ELEC6234 Coursework)
 
-**Module:** ELEC6234 Embedded Processor Synthesis
-**Coursework:** *SystemVerilog Design of an Application Specific Embedded Processor*
-**Author:** Adil S. Rameto (Ar7n25) — MSc Electronic Engineering
-**Supervisor:** Dr Ruomeng Huang
+
 
 ## Overview
 
@@ -85,6 +82,4 @@ the fixed-point arithmetic derivation, and FPGA test results are documented in
 
 ## License
 
-Coursework project for the University of Southampton ELEC6234 module. Add a
-license here if you intend to share this repository publicly beyond
-submission purposes.
+**Academic Context:** This was developed as a coursework project for the ELEC6234 Embedded Processor Synthesis module at the University of Southampton. It is shared publicly for portfolio and educational reference purposes.
