@@ -1,6 +1,5 @@
 # picoMIPS — 1D Gaussian Smoothing Processor (ELEC6234 Coursework)
 
-<<<<<<< HEAD
 Custom picoMIPS processor, designed and optimised in SystemVerilog, that
 performs 1D Gaussian smoothing of a noisy 256-sample waveform stored in ROM,
 demonstrated on an Intel Cyclone V SoC (DE1-SoC).
@@ -29,9 +28,9 @@ signed decimal display).
 ```
 rtl/          picoMIPS, picoMIPS4test, decoder, alu, pc, prog, regs,
               mac_unit, wave_rom, seg7_decoder, counter
-sim/          testbenches + prog_opt.hex / wave.hex
+testbench/    testbenches + prog_opt.hex / wave.hex
 quartus/      Quartus project files (Cyclone V 5CSEMA5F31C6)
-docs/         coursework brief, instructions, and full report
+docs/         full report
 ```
 
 ## Usage
@@ -49,11 +48,5 @@ docs/         coursework brief, instructions, and full report
 **Academic Context:** Developed as a coursework project for the ELEC6234
 Embedded Processor Synthesis module at the University of Southampton. Shared
 publicly for portfolio and educational reference purposes.
-=======
 
 
-
-## License
-
-**Academic Context:** This was developed as a coursework project for the ELEC6234 Embedded Processor Synthesis module at the University of Southampton. It is shared publicly for portfolio and educational reference purposes.
->>>>>>> 86922f2d9c8d59894e2e7faa2319cf7ae7038c70
