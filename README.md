@@ -28,7 +28,8 @@ signed decimal display).
 ```
 rtl/          picoMIPS, picoMIPS4test, decoder, alu, pc, prog, regs,
               mac_unit, wave_rom, seg7_decoder, counter
-testbench/    testbenches + prog_opt.hex / wave.hex
+testbench/    testbenches 
+hex_files/    prog_opt.hex + wave.hex
 quartus/      Quartus project files (Cyclone V 5CSEMA5F31C6)
 docs/         full report
 ```
