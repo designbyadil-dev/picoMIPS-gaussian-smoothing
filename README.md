@@ -1,4 +1,4 @@
-# picoMIPS — 1D Gaussian Smoothing Processor (ELEC6234 Coursework)
+# picoMIPS — 1D Gaussian Smoothing Processor
 
 Custom picoMIPS processor, designed and optimised in SystemVerilog, that
 performs 1D Gaussian smoothing of a noisy 256-sample waveform stored in ROM,
