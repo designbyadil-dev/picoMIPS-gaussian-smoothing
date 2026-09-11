@@ -9,9 +9,7 @@ Reads a sample index from switches, computes the 5-tap convolution
 instruction, and displays the result on LEDs (plus an optional 7-segment
 signed decimal display).
 
-**Final synthesis result:** 96 ALMs, 1 DSP block, 0 memory bits → cost = 96
-(Cyclone V SoC 5CSEMA5F31C6). Full derivation and six rounds of optimisation
-(173 → 96 ALMs) are in `docs/report.pdf`.
+**Final synthesis result:** 96 ALMs, 1 DSP block, 0 memory bits 
 
 ## Design
 
